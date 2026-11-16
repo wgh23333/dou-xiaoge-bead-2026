@@ -22,3 +22,13 @@
 - 本项目数据文件：`data/artkal-c-197.json`
 - 官方依据：Artkal 官方 C-2.6mm 色卡页面标注 197 色，并提供 RGB 色卡下载；上游数据大部分颜色来自官方 RGB PDF，CG/CP/CT 等特殊材质色值部分按官方色卡图采样，并在每条记录的 `notes`/`source` 中注明，不应视为厂商发布的精确 RGB。
 - 屏幕 HEX 仅供近似预览，实际颜色受材料、批次、光线和显示器影响。本项目与 Artkal/优肯无隶属或官方授权关系，商标归各自权利人所有。
+
+
+## Artkal M 221
+
+- 上游项目：HansBug/pindou-color-data
+- 上游数据：`artkal-m-221-official/colors.json`
+- 上游仓库许可：MIT（保留上游版权与许可声明）
+- 本项目数据文件：`data/artkal-m-221.json`
+- 上游说明：大部分 RGB 来自 Artkal 官方 RGB PDF；MH1 透明色在官方 PDF 中仅标注 Transparent，上游按透明 RGBA 表达，不能称为厂商发布的数值 RGB。
+- 屏幕 HEX 仅供近似预览，实际颜色受材料、批次、光线和显示器影响。本项目与 Artkal/优肯无隶属或官方授权关系，商标归各自权利人所有。
