@@ -1,0 +1,1328 @@
+{
+  "schema": "dou-xiaoge-palette-v1",
+  "brand": "Artkal A",
+  "count": 186,
+  "bead_size": "2.6mm Mini",
+  "chart_version": "2017.12",
+  "source": "user-provided official Artkal A-2.6mm color chart image",
+  "source_method": "image_sampled",
+  "note": "186 swatches sampled from central bead areas. HEX values are approximate screen references, not manufacturer RGB measurements. Special-effect properties cannot be represented by a single HEX value.",
+  "validation": {
+    "detected_cards": 186,
+    "unique_codes": 186,
+    "duplicate_codes": [],
+    "sample_method": "median RGB of central swatch area excluding border, label and RGB strip"
+  },
+  "groups": {
+    "solid": 157,
+    "translucent": 7,
+    "neon": 4,
+    "glow_in_dark": 7,
+    "pearl": 7,
+    "special_unclassified": 4
+  },
+  "colors": [
+    {
+      "code": "A01",
+      "hex": "#D6D4DA",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A87",
+      "hex": "#C5C3C5",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A88",
+      "hex": "#B8B6B7",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A89",
+      "hex": "#A0A1A7",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A33",
+      "hex": "#85858C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A56",
+      "hex": "#71747E",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A34",
+      "hex": "#5B5F68",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A155",
+      "hex": "#434954",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A90",
+      "hex": "#323840",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A156",
+      "hex": "#2E323A",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A69",
+      "hex": "#1E2127",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A157",
+      "hex": "#212328",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A02",
+      "hex": "#131317",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A35",
+      "hex": "#434955",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A92",
+      "hex": "#D5B29B",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A153",
+      "hex": "#D4AB8F",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A74",
+      "hex": "#BB8060",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A154",
+      "hex": "#AA6F4E",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A75",
+      "hex": "#915C3F",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A31",
+      "hex": "#6C4131",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A147",
+      "hex": "#634442",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A32",
+      "hex": "#442623",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A59",
+      "hex": "#6C1320",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A78",
+      "hex": "#77131A",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A30",
+      "hex": "#7E2727",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A29",
+      "hex": "#924236",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A23",
+      "hex": "#C99185",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A47",
+      "hex": "#D5B3A5",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A148",
+      "hex": "#E2C7A3",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A24",
+      "hex": "#E5BF94",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A91",
+      "hex": "#CA932C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A28",
+      "hex": "#A66029",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A73",
+      "hex": "#B2572B",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A96",
+      "hex": "#E26F2F",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A65",
+      "hex": "#F1744C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A04",
+      "hex": "#FD8950",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A03",
+      "hex": "#FD961B",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A17",
+      "hex": "#FE5F3D",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A16",
+      "hex": "#FE6F48",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A51",
+      "hex": "#DDD0AC",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A61",
+      "hex": "#DACEA5",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A10",
+      "hex": "#DFCC7F",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A41",
+      "hex": "#E1C975",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A42",
+      "hex": "#E5C149",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A11",
+      "hex": "#EAB224",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A48",
+      "hex": "#F0A928",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A71",
+      "hex": "#E9A227",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A72",
+      "hex": "#EBA154",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A22",
+      "hex": "#E1AFAE",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A44",
+      "hex": "#EE8B8A",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A76",
+      "hex": "#F96560",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A62",
+      "hex": "#F34D52",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A93",
+      "hex": "#D98F88",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A94",
+      "hex": "#DB7367",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A95",
+      "hex": "#ED7C66",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A77",
+      "hex": "#AA4A57",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A36",
+      "hex": "#C8687C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A129",
+      "hex": "#DF6793",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A66",
+      "hex": "#E7738A",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A128",
+      "hex": "#D99FB4",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A07",
+      "hex": "#F2A0D3",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A49",
+      "hex": "#EF85C8",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A08",
+      "hex": "#FB6BB4",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A09",
+      "hex": "#FD467A",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A131",
+      "hex": "#F3415E",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A05",
+      "hex": "#DC252C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A57",
+      "hex": "#D11D2C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A06",
+      "hex": "#C91626",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A43",
+      "hex": "#BB162C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A145",
+      "hex": "#931528",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A126",
+      "hex": "#D9AED7",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A63",
+      "hex": "#DEA0CB",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A127",
+      "hex": "#D995D5",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A132",
+      "hex": "#E245B1",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A64",
+      "hex": "#CD2055",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A67",
+      "hex": "#A13FA4",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A133",
+      "hex": "#8C39A0",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A152",
+      "hex": "#BCBDE2",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A151",
+      "hex": "#AEAEE0",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A149",
+      "hex": "#8C85CF",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A50",
+      "hex": "#C1B7E3",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A130",
+      "hex": "#C4ABDE",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A25",
+      "hex": "#9676C5",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A26",
+      "hex": "#8059AA",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A52",
+      "hex": "#3F277D",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A27",
+      "hex": "#2E225F",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A134",
+      "hex": "#A4B5DE",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A135",
+      "hex": "#AAB7E0",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A136",
+      "hex": "#7A9CDB",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A137",
+      "hex": "#648CD3",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A138",
+      "hex": "#6F8DD1",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A139",
+      "hex": "#5C71C1",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A140",
+      "hex": "#5274C5",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A141",
+      "hex": "#3F61B6",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A142",
+      "hex": "#26368C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A58",
+      "hex": "#212746",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A18",
+      "hex": "#A0CBE4",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A68",
+      "hex": "#7ACAF0",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A19",
+      "hex": "#82BEE9",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A100",
+      "hex": "#5ABBEE",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A38",
+      "hex": "#53B7EB",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A97",
+      "hex": "#64AAEC",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A20",
+      "hex": "#2D99E2",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A101",
+      "hex": "#2284D3",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A37",
+      "hex": "#236DBC",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A102",
+      "hex": "#1E5497",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A21",
+      "hex": "#21469E",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A143",
+      "hex": "#132E6E",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A39",
+      "hex": "#9FC9D2",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A79",
+      "hex": "#72CBDE",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A99",
+      "hex": "#67AEC1",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A82",
+      "hex": "#3FABC9",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A103",
+      "hex": "#228AAE",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A104",
+      "hex": "#1F7D98",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A106",
+      "hex": "#186B9D",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A105",
+      "hex": "#155681",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A83",
+      "hex": "#2483B3",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A81",
+      "hex": "#41A3CB",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A98",
+      "hex": "#68B4CF",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A60",
+      "hex": "#B1D1CD",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A146",
+      "hex": "#9FD0CB",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A118",
+      "hex": "#97D9D6",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A120",
+      "hex": "#7FBAAD",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A54",
+      "hex": "#17BBBE",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A80",
+      "hex": "#229CA7",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A125",
+      "hex": "#096A6D",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A124",
+      "hex": "#1B7B75",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A15",
+      "hex": "#156255",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A123",
+      "hex": "#1A522F",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A86",
+      "hex": "#187234",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A14",
+      "hex": "#208053",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A12",
+      "hex": "#8DCD92",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A119",
+      "hex": "#7DD7B6",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A45",
+      "hex": "#5EDD9C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A121",
+      "hex": "#34BC83",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A122",
+      "hex": "#46B53D",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A55",
+      "hex": "#54BD62",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A13",
+      "hex": "#66B748",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A53",
+      "hex": "#A1D737",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A46",
+      "hex": "#D6D657",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A107",
+      "hex": "#B4A87C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A108",
+      "hex": "#9D925C",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A109",
+      "hex": "#948450",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A110",
+      "hex": "#7B6333",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A111",
+      "hex": "#62572B",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A116",
+      "hex": "#616552",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A115",
+      "hex": "#6C6F4E",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A114",
+      "hex": "#757755",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A113",
+      "hex": "#86855B",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A112",
+      "hex": "#8F8F77",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A144",
+      "hex": "#BCAF5E",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A40",
+      "hex": "#AB9E3E",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A84",
+      "hex": "#848830",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A85",
+      "hex": "#67662F",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A117",
+      "hex": "#455330",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A150",
+      "hex": "#303C33",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "A70",
+      "hex": "#212B33",
+      "type": "solid",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AT1",
+      "hex": "#C5C4D2",
+      "type": "translucent",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AT2",
+      "hex": "#EC579D",
+      "type": "translucent",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AT3",
+      "hex": "#FC7F4C",
+      "type": "translucent",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AT4",
+      "hex": "#C3C654",
+      "type": "translucent",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AT5",
+      "hex": "#17AA73",
+      "type": "translucent",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AT6",
+      "hex": "#7362C6",
+      "type": "translucent",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AT7",
+      "hex": "#3BACDB",
+      "type": "translucent",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AN1",
+      "hex": "#FB6828",
+      "type": "neon",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AN2",
+      "hex": "#07C35F",
+      "type": "neon",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AN3",
+      "hex": "#BCCE33",
+      "type": "neon",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AN4",
+      "hex": "#E2276E",
+      "type": "neon",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AG1",
+      "hex": "#BCBCBE",
+      "type": "glow_in_dark",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AG2",
+      "hex": "#CAA5B5",
+      "type": "glow_in_dark",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AG3",
+      "hex": "#63B8D9",
+      "type": "glow_in_dark",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AG4",
+      "hex": "#8E80BC",
+      "type": "glow_in_dark",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AG5",
+      "hex": "#D99B8E",
+      "type": "glow_in_dark",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AG6",
+      "hex": "#8EBD8E",
+      "type": "glow_in_dark",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AG7",
+      "hex": "#C64651",
+      "type": "glow_in_dark",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AU1",
+      "hex": "#B6B1AF",
+      "type": "special_unclassified",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AU2",
+      "hex": "#B6B5B8",
+      "type": "special_unclassified",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AU3",
+      "hex": "#B6B2AF",
+      "type": "special_unclassified",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AU4",
+      "hex": "#B7B6B9",
+      "type": "special_unclassified",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AP1",
+      "hex": "#8AC9A6",
+      "type": "pearl",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AP2",
+      "hex": "#F3804F",
+      "type": "pearl",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AP3",
+      "hex": "#DD974A",
+      "type": "pearl",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AP4",
+      "hex": "#C57F95",
+      "type": "pearl",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AP5",
+      "hex": "#B41922",
+      "type": "pearl",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AP6",
+      "hex": "#1D286E",
+      "type": "pearl",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    },
+    {
+      "code": "AP7",
+      "hex": "#391F5E",
+      "type": "pearl",
+      "source": "image_sampled",
+      "sample_error": "Approximate screen sample from the user-provided Artkal A-2.6mm 2017.12 chart image; not manufacturer-published RGB. Compression, print/scan, bead texture, lighting and display calibration may cause deviation."
+    }
+  ]
+}
