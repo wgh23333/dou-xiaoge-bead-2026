@@ -32,3 +32,12 @@
 - 本项目数据文件：`data/artkal-m-221.json`
 - 上游说明：大部分 RGB 来自 Artkal 官方 RGB PDF；MH1 透明色在官方 PDF 中仅标注 Transparent，上游按透明 RGBA 表达，不能称为厂商发布的数值 RGB。
 - 屏幕 HEX 仅供近似预览，实际颜色受材料、批次、光线和显示器影响。本项目与 Artkal/优肯无隶属或官方授权关系，商标归各自权利人所有。
+
+
+## Artkal S 176（社区参考值）
+
+- 本项目数据文件：`data/artkal-s-176.json`
+- 上游数据：pomodiary/bitbead.app `data/palettes.json` 中的 `artkal` 数组
+- 许可：CC BY 4.0，按许可要求保留署名与来源
+- 官方色卡：Artkal S 系列总数为 225；官方 RGB 图表可提供 173 个数字 RGB 条目。当前接入的 176 条是社区整理的屏幕参考值，不代表完整官方 225 色，也不代表每条 HEX 都由厂商发布。
+- 屏幕 HEX 仅供近似预览，特殊材质效果无法由纯色块准确表现。
