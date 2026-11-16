@@ -45,11 +45,10 @@ function render(){if(!gridData)return;let cell=16,margin=$('coord').checked?26:3
 function luminance(hex){let [r,g,b]=hexToRgb(hex);return .299*r+.587*g+.114*b}
 function cellAt(e){let r=canvas.getBoundingClientRect(),scale=canvas.width/r.width,x=Math.floor((e.clientX-r.left)*scale),y=Math.floor((e.clientY-r.top)*scale),m=$('coord').checked?26:3;return [Math.floor((x-m)/16),Math.floor((y-m)/16)]}
 function pointerDown(e){if(tool==='pan')return;let [x,y]=cellAt(e);if(x<0||y<0||x>=W||y>=H)return;dragging=true;startCell=[x,y];if(tool==='fill'){snapshot();flood(x,y);render()}else if(tool==='eyedrop'){let v=gridData[y*W+x];if(v){selected=v;paintPalette()}}else{snapshot();paint(x,y)}}
-function pointerMove(e){if(!dragging||!startCell||tool==='fill'||tool==='eyedrop'||tool==='pan')return;let [x,y]=cellAt(e);if(x<0||y<0||x>=W||y>=H)return;if(tool==='brush'||tool==='eraser'){paint(x,y);render()}}
+function pointerMove(e){if(!dragging||!startCell||tool==='fill'||tool==='eyedrop'||tool==='pan')return;let [x,y]=cellAt(e);if(x<0||y<0||x>=W||y>=H)return;if(tool==='brush'||tool==='eraser'){paint(x,y);drawOnly(x,y)}}
 function pointerUp(e){if(!dragging)return;dragging=false;if((tool==='line'||tool==='rect')&&startCell){let [x,y]=cellAt(e);snapshot();if(tool==='line')line(startCell[0],startCell[1],x,y);else rectangle(startCell[0],startCell[1],x,y);render()}else if(tool==='brush'||tool==='eraser'){render()}startCell=null}
 function paint(x,y){gridData[y*W+x]=tool==='eraser'?null:selected}
-function drawOnly(){render()}
-let cellX=0,cellY=0;
+function drawOnly(x,y){if(!ctx)return;let m=$('coord').checked?26:3,v=gridData[y*W+x];ctx.fillStyle=v||'#fff';ctx.fillRect(m+x*16,m+y*16,16,16);if($('grid').checked){ctx.strokeStyle='#26364a55';ctx.lineWidth=.6;ctx.strokeRect(m+x*16,m+y*16,16,16)}}
 function flood(x,y){let idx=y*W+x,old=gridData[idx];if(old===selected)return;let stack=[idx],seen=new Set([idx]);while(stack.length){let i=stack.pop();gridData[i]=selected;let xx=i%W,yy=Math.floor(i/W);for(let n of [xx>0?i-1:-1,xx<W-1?i+1:-1,yy>0?i-W:-1,yy<H-1?i+W:-1])if(n>=0&&!seen.has(n)&&gridData[n]===old){seen.add(n);stack.push(n)}}}
 function line(x0,y0,x1,y1){let dx=Math.abs(x1-x0),sx=x0<x1?1:-1,dy=-Math.abs(y1-y0),sy=y0<y1?1:-1,err=dx+dy;while(true){if(x0>=0&&y0>=0&&x0<W&&y0<H)gridData[y0*W+x0]=selected;if(x0===x1&&y0===y1)break;let e=2*err;if(e>=dy){err+=dy;x0+=sx}if(e<=dx){err+=dx;y0+=sy}}}
 function rectangle(x1,y1,x2,y2){for(let y=Math.max(0,Math.min(y1,y2));y<=Math.min(H-1,Math.max(y1,y2));y++)for(let x=Math.max(0,Math.min(x1,x2));x<=Math.min(W-1,Math.max(x1,x2));x++)if(y===Math.min(y1,y2)||y===Math.max(y1,y2)||x===Math.min(x1,x2)||x===Math.max(x1,x2))gridData[y*W+x]=selected}
